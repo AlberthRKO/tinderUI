@@ -113,6 +113,7 @@ class _ExploreScreenState extends State<ExploreScreen> {
                                         Text(
                                           itemExplore[index]['name'],
                                           style: const TextStyle(
+                                            fontFamily: 'tinder',
                                             fontSize: 24,
                                             fontWeight: FontWeight.bold,
                                             color: white,
@@ -124,6 +125,7 @@ class _ExploreScreenState extends State<ExploreScreen> {
                                         Text(
                                           itemExplore[index]['age'],
                                           style: const TextStyle(
+                                            fontFamily: 'tinder',
                                             fontSize: 22,
                                             color: white,
                                           ),
@@ -149,6 +151,7 @@ class _ExploreScreenState extends State<ExploreScreen> {
                                         const Text(
                                           "Activo Recientemente",
                                           style: TextStyle(
+                                            fontFamily: 'tinder',
                                             fontSize: 14,
                                             color: white,
                                           ),
