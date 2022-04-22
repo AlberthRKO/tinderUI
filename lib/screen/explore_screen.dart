@@ -1,6 +1,7 @@
+// ignore_for_file: import_of_legacy_library_into_null_safe
+
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-// ignore: import_of_legacy_library_into_null_safe
 import 'package:flutter_tindercard/flutter_tindercard.dart';
 import 'package:tinderui/data/explore_json.dart';
 import 'package:tinderui/data/icons.dart';
