@@ -30,8 +30,8 @@ class _LikesScreenState extends State<LikesScreen> {
           ),
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
-            children: const [
-              Text(
+            children: [
+              const Text(
                 "10 Me gusta",
                 style: TextStyle(
                   fontSize: 18,
@@ -43,6 +43,7 @@ class _LikesScreenState extends State<LikesScreen> {
                 style: TextStyle(
                   fontSize: 18,
                   fontWeight: FontWeight.bold,
+                  color: black.withOpacity(0.5),
                 ),
               ),
             ],

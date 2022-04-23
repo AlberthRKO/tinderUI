@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:tinderui/screen/chat_screen.dart';
 import 'package:tinderui/screen/explore_screen.dart';
 import 'package:tinderui/screen/likes_screen.dart';
 import 'package:tinderui/theme/colors.dart';
@@ -34,7 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
       children: const [
         ExploreScreen(),
         LikesScreen(),
-        ExploreScreen(),
+        ChatScreen(),
         ExploreScreen(),
       ],
     );
