@@ -70,7 +70,7 @@ List userMessages = [
     "img": "assets/images/girls/img_1.jpeg",
     "online": true,
     "story": true,
-    "message": "How are you doing?",
+    "message": "Como estas?",
     "created_at": "1:00 pm"
   },
   {
@@ -78,7 +78,7 @@ List userMessages = [
     "img": "assets/images/girls/img_2.jpeg",
     "online": true,
     "story": false,
-    "message": "Long time no see!!",
+    "message": "Mucho tiempo sin verte!",
     "created_at": "12:00 am"
   },
   {
@@ -87,7 +87,7 @@ List userMessages = [
     "img": "assets/images/girls/img_3.jpeg",
     "online": true,
     "story": true,
-    "message": "Glad to know you in person!",
+    "message": "Me gusto conocerte en persona!",
     "created_at": "3:30 pm"
   },
   {
@@ -96,7 +96,7 @@ List userMessages = [
     "img": "assets/images/girls/img_4.jpeg",
     "online": false,
     "story": false,
-    "message": "I'm doing fine and how about you?",
+    "message": "Yo estoy bien y vos?",
     "created_at": "9:00 am"
   },
   {
@@ -105,7 +105,7 @@ List userMessages = [
     "img": "assets/images/girls/img_5.jpeg",
     "online": true,
     "story": false,
-    "message": "What is your real name?",
+    "message": "Cual es tu nombre real?",
     "created_at": "11:25 am"
   },
   {
@@ -114,7 +114,7 @@ List userMessages = [
     "img": "assets/images/girls/img_6.jpeg",
     "online": false,
     "story": true,
-    "message": "I'm happy to be your friend",
+    "message": "Estoy feliz de ser tu amiga!",
     "created_at": "10:00 am"
   },
 ];

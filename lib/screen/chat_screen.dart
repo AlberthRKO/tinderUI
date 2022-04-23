@@ -235,7 +235,7 @@ class _ChatScreenState extends State<ChatScreen> {
                                         shape: BoxShape.circle,
                                         image: DecorationImage(
                                           image: AssetImage(
-                                            userMessages[0]['img'],
+                                            userMessages[index]['img'],
                                           ),
                                           fit: BoxFit.cover,
                                         ),
